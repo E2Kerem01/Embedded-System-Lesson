@@ -1,2 +1,2 @@
-# Embedded-System-Lesson
+# Embedded-System-Lessons-Project
 Gate Opener Project
